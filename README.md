@@ -199,15 +199,15 @@ export function getMyanmarSeason(month: number): MyanmarSeason {
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://github.com/chit-hmue-than-thar">
-          <img src="https://github.com/chit-hmue-than-thar.png" width="80px;" alt="chit-hmue-than-thar"/><br />
-          <sub><b>chit-hmue-than-thar</b></sub>
-        </a>
-      </td>
-      <td align="center">
         <a href="https://github.com/sannlynnhtun-coding">
           <img src="https://github.com/sannlynnhtun-coding.png" width="80px;" alt="sannlynnhtun-coding"/><br />
           <sub><b>sannlynnhtun-coding</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/yokesann">
+          <img src="https://github.com/yokesann.png" width="80px;" alt="yokesann"/><br />
+          <sub><b>yokesann</b></sub>
         </a>
       </td>
     </tr>
